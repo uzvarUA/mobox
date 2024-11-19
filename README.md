@@ -2,9 +2,7 @@
 
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/olegos2/mobox/blob/main/README-ru.md">Русский</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/olegos2/mobox/blob/main/README-ua.md">Українська</a>
+<a href="https://github.com/uzvarUA/mobox/blob/main/README-ua.md">Українська</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/olegos2/mobox/blob/main/README-pt_BR.md">Português Brasileiro</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
@@ -23,13 +21,13 @@ English
 # Installation
 1. Install
 [Termux](https://f-droid.org/repo/com.termux_118.apk),
-[Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk) and
-[Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk).
+[Termux-X11](https://raw.githubusercontent.com/uzvarUA/mobox/main/components/termux-x11.apk) and
+[Input Bridge](https://raw.githubusercontent.com/uzvarUA/mobox/main/components/inputbridge.apk).
 
 2. Open termux and paste command
 
 ```bash
-curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/uzvarUA/mobox/main/install && . ~/x
 ```
 
 3. Type `mobox` in termux.
